@@ -1,0 +1,10 @@
+go test -cover
+
+// Cria um arquivo no repositorio com todos os teste
+go test -coverprofile = resultado.out
+
+// Testa cada função desse arquivo
+go tool cover -func=resultado.out
+
+// Faz um html com todas as funções de teste
+go tool cover -html=resultado.out

@@ -1,2 +1,6 @@
 github.com/AbnerSilvaBarbosa/area v0.1.1-0.20220815002729-07a1540996b5 h1:nY+b/g59ECoGZEmO1iPuAixeCcORf1XPFCx2kY8EqK8=
 github.com/AbnerSilvaBarbosa/area v0.1.1-0.20220815002729-07a1540996b5/go.mod h1:yZbSw8pqplq7ykpf2/YPALn2nlUczA56c/siBzrZ4mg=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
